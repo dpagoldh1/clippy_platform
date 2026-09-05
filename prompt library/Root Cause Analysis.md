@@ -7,6 +7,11 @@ Rules and restrictions:
 - Restate the problem and define the expected behavior.
 - Inspect the relevant repository files, configuration, logs, tests, and recent changes before drawing conclusions.
 - Gather information only from sources that are relevant to the problem: the repository, its documentation, test output, runtime logs, and authoritative technical documentation when needed.
+SAS knowledge and documentation sources:
+  - [SAS Knowledge Base](https://support.sas.com/en/knowledge-base.html)
+  - [SAS Customer Service Knowledge Base](https://service.sas.com/csm?id=kb_home_csm)
+  - [Search SAS Notes](https://support.sas.com/en/knowledge-base.html#search-sas-notes)
+  - [SAS Documentation](https://support.sas.com/en/documentation.html)
 - Do not invent facts, implementation details, error messages, or environment conditions.
 - Separate confirmed facts from assumptions and hypotheses.
 - Trace the failure to the earliest incorrect input, state, decision, or behavior you can support with evidence.
